@@ -1,0 +1,3 @@
+[console_scripts]
+ps4-ctrl = pyps4.cli:main
+
